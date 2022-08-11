@@ -15,11 +15,11 @@ const Footer = () => (
     </div>
 
     <div className="links">
-      <a href="http://www.gov.bc.ca/disclaimer">Disclaimer</a>|
-      <a href="http://www.gov.bc.ca/privacy">Privacy</a>|
-      <a href="http://www.gov.bc.ca/accessible-government">Accessibility</a>|
-      <a href="http://www.gov.bc.ca/copyright">Copyright</a>|
-      <a href="http://www.gov.bc.ca/contactus">Contact Us</a>
+      <a href="https://www.gov.bc.ca/disclaimer">Disclaimer</a>|
+      <a href="https://www.gov.bc.ca/privacy">Privacy</a>|
+      <a href="https://www.gov.bc.ca/accessible-government">Accessibility</a>|
+      <a href="https://www.gov.bc.ca/copyright">Copyright</a>|
+      <a href="https://www.gov.bc.ca/contactus">Contact Us</a>
     </div>
   </div>
 );
