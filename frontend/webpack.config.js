@@ -150,15 +150,15 @@ const config = {
       title: 'ZEVA',
       chunks: ['bundle', 'vendor'],
       filename: 'generated_index.html',
-      inject: false,
-      mobile: true,
+      // inject: false,
+      // mobile: true,
       appMountId: 'root',
       links: [
         'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css'
         // array of css links to include (eg hosted fonts)
       ],
       // eslint-disable-next-line global-require
-      template: require('html-webpack-template')
+      // template: require('html-webpack-template')
     })
   ]
 };
